@@ -1,6 +1,6 @@
 {
   "name": "@tinyapps/ie-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/ie-alert.ssr.js",
   "browser": "dist/ie-alert.esm.js",
