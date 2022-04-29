@@ -6,7 +6,7 @@ This little vue component is based on the [98.css library](https://github.com/jd
 
 ##### Installation
 
-`yarn add tinyapps/ie-alert` or `npm i tinyapps/ie-alert`
+`yarn add @tinyapps/ie-alert` or `npm i @tinyapps/ie-alert`
 
 ##### Usage
 
