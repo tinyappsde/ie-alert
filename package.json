@@ -1,5 +1,5 @@
 {
-  "name": "ie-alert",
+  "name": "@tinyapps/ie-alert",
   "version": "1.0.0",
   "description": "",
   "main": "dist/ie-alert.ssr.js",
