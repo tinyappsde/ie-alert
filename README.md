@@ -21,7 +21,7 @@ This little vue component is based on the [98.css library](https://github.com/jd
 
 <script>
 import Vue from 'vue'
-import IeAlert from 'ie-alert'
+import IeAlert from '@tinyapps/ie-alert'
 
 export default {
 	name: 'app',
@@ -34,3 +34,5 @@ export default {
 
 
 You can also use `<ie-alert always-visible />` to test, always show the alert or combine it with your own `v-if` condition.
+
+Make sure to use scoped styling for your app that doesn't overwrite the windows 98 styling of the alert.
